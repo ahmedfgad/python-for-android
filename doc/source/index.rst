@@ -16,8 +16,7 @@ you can install as many or few components as you like.  The result is
 a standalone Android project which can be used to generate any number
 of different APKs, even with different names, icons, Python code etc.
 The second function of python-for-android is to provide a simple
-interface to these distributions, to generate from such a project a
-Python APK with build parameters and Python code to taste.
+interface to these distributions, to generate from such a project an Android APK with build parameters and Python code to taste.
 
 
 Contents
